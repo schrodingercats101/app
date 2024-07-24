@@ -9,3 +9,4 @@
 ・jquery
 ・exif.js
 ・AWS S3
+・docker
