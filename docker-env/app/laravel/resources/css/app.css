@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+label.error {
+    color: red;
+}
+.liked {
+    color:#f97316;
+  }
